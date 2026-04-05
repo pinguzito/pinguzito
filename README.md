@@ -19,3 +19,7 @@
 🛠️ Tools: Git, Linux, PowerShell  
 ☁️ Infrastructure: Microsoft Intune, Microsoft Entra ID, Active Directory, GPO  
 📖 Currently Learning: HTML, CSS, React, Docker, Node.js
+
+## 📨 Talk to me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel2703/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sousadaniel2703@gmail.com)  
