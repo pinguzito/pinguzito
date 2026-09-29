@@ -1,6 +1,6 @@
 # Hi there👋
 
-💭 My name is Daniel, a Computer Engeneering student at PUC Goiás (Admitted in 2021.1)
+💭 My name is Daniel, a Computer Engineer (Graduated in 2026.1)
 🎯 Tech enthusiast and developer, always looking to grow and learn something new.  
 💻 Currently working in IT infrastructure while exploring software development and building personal projects.  
 🚀 Naturally curious — I enjoy diving deep into how things work behind the scenes.
